@@ -41,6 +41,6 @@ SOFTWARE.
 6. Set the campaignStatus variable to the campaign status you want to monitor (e.g., 'ENABLED').
 7. Set the recipientEmail variable to the email address where you want to receive notifications.
 8. Save the script and run.
-9. Set the frequency to "Hourly" to receive the report every hour. Adjust the frequency as desired for your reporting needs.
+9. You can set the frequency to "Hourly" to allow the script every hour to check the budget. Adjust the frequency as desired for your reporting needs.
 10. Save the trigger settings, and the script will run automatically according to the defined frequency.
 11. Check the specified recipientEmail inbox for email notifications whenever a campaign is paused due to budget overspending.
