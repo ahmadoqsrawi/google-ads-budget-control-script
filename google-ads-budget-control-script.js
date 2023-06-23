@@ -1,3 +1,10 @@
+/*************************************************
+* Google Ads Budget Report
+* @version: 1.0
+* @author: Ahmad Ismail
+***************************************************
+*/
+
 function main() {
   var budgetThreshold = 100; // Set your budget threshold in your account's currency
   var campaignStatus = 'ENABLED'; // Specify the campaign status to be monitored (e.g., 'ENABLED')
