@@ -24,7 +24,7 @@ SOFTWARE.
 # The Script
 
 ## Google Ads Budget Control Script
-**This script that can help prevent Google Ads budget overspending by pausing campaigns once a certain budget threshold is reached**
+**This script can help prevent Google Ads budget overspending by pausing campaigns once a certain budget threshold is reached**
 
 ### Prerequisites
 **Before using this script, you need to set up the following:**
